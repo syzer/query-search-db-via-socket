@@ -1,0 +1,16 @@
+{
+  "name": "query-search-db-via-socket",
+  "version": "1.0.0",
+  "description": "WAT === example of quering remote search db via socket",
+  "main": "countries.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "level": "^1.5.0",
+    "lodash": "^4.17.4",
+    "object-stream-tools": "^2.3.0"
+  }
+}
