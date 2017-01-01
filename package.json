@@ -9,8 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dev-null": "^0.1.1",
     "level": "^1.5.0",
     "lodash": "^4.17.4",
-    "object-stream-tools": "^2.3.0"
+    "object-stream-tools": "^2.3.0",
+    "search-index": "^0.9.9",
+    "split2": "^2.1.0",
+    "term-cluster": "0.0.1"
   }
 }
