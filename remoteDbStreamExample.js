@@ -4,8 +4,6 @@ const ost = require('object-stream-tools')
 const _ = require('lodash')
 
 const db = level(__dirname + '/testDb', { valueEncoding: 'json' })
-const q = require('bluebird')
-q.promisifyAll(db)
 
 db.put('tools', [
     'hammock',
