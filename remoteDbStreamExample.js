@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const net = require('net')
 const level = require('level')
 const ost = require('object-stream-tools')
